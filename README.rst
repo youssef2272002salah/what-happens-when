@@ -709,3 +709,5 @@ page rendering and painting.
 .. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
 .. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
 .. _`Spanish`: https://github.com/gonzaleztroyano/what-happens-when-ES
+
+https://medium.com/@youssefsalah2272002/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-fa51b9fdade8
